@@ -1,0 +1,45 @@
+[
+    {
+    "id": 1,
+    "title": "Portfolio Personal",
+    "description": "Portfolio profesional con diseño moderno y funcionalidades interactivas",
+    "detailedDescription": "Portfolio desarrollado con React y Vite, incluye formulario de contacto funcional con EmailJS y reCAPTCHA, sistema de modales con React Portal, animaciones fluidas con AOS, navbar dinámico con auto-hide, y diseño completamente responsive. Arquitectura modular y componentizada siguiendo buenas prácticas.",
+    "image": "/images/portfolio-preview.png",
+    "technologies": ["React", "Vite", "TailwindCSS", "EmailJS", "AOS", "reCAPTCHA"],
+    "categories": ["Frontend", "Full Stack"],
+    "repositoryUrl": "https://github.com/AgustinTerrera/Portfolio-Personal-2026",
+    "liveUrl": "https://agustin-terrera.com",
+    "documentation": null,
+    "status": "Completado",
+    "date": "Feb. 2026"
+    },
+    {
+        "id": 2,
+        "title": "Sistema Web de Consultas Automotrices",
+        "description": "Plataforma web para centralizar información sobre fallos vehiculares y facilitar la colaboración entre usuarios",
+        "detailedDescription": "Trabajo Final de Grado desarrollado con Node.js y Express.js. Sistema completo de autenticación con Passport.js y bcrypt, gestión de publicaciones y comentarios con MySQL, templates dinámicos con Handlebars.js, y dashboard de análisis de tendencias. Incluye sistema de búsqueda y filtrado avanzado, validación de formularios con express-validator, y arquitectura MVC siguiendo mejores prácticas. Proyecto académico que demuestra capacidad de desarrollo full-stack y gestión de bases de datos relacionales.",
+        "image": "/images/tfg-preview.png",
+        "technologies": [
+            "Node.js",
+            "Express.js",
+            "MySQL",
+            "Handlebars.js",
+            "Bootstrap",
+            "Passport.js",
+            "Bcrypt"
+        ],
+        "categories": [
+            "Backend",
+            "Full Stack",
+            "Frontend",
+            "Database",
+            "Web",
+            "Foro"
+        ],
+        "repositoryUrl": "https://github.com/AgustinTerrera/TFG---Prototipado-Web-2024",
+        "liveUrl": null,
+        "documentation": "/docs/tfg-terrera-2024.pdf",
+        "status": "Completado",
+        "date": "Nov. 2024"
+    }
+]

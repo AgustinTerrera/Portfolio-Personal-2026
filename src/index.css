@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+:root {
+    color-scheme: dark;
+}
+
+iframe[src*="recaptcha"],
+iframe[src*="google.com/recaptcha"] {
+    color-scheme: light !important;
+}
