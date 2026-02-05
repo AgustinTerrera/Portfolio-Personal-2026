@@ -153,7 +153,7 @@ Edita `src/data/projects.json`:
 
 - [ ] Modo claro/oscuro toggle
 - [ ] Blog integrado
-- [ ] Soporte multi-idioma (i18n)
+- [ ] Soporte multi-idioma
 - [ ] Certificaciones section
 - [ ] Analytics (Google Analytics / Plausible)
 
