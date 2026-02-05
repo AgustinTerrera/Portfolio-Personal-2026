@@ -30,7 +30,7 @@ function Footer() {
                                 <GithubIcon className="h-8 w-8 text-text/50 hover:text-primary transition-all duration-200" />
                             </a>
                             <a
-                                href="/public/docs/CV_Agustin_Terrera_G.pdf"
+                                href="/docs/CV_Agustin_Terrera_G.pdf"
                                 target="_blank"
                                 className="text-sm ">
                                 <Download className="h-8 w-8 text-text/50 hover:text-primary transition-all duration-200 " />

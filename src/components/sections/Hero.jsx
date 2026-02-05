@@ -67,7 +67,7 @@ function Hero() {
                     className="flex flex-col md:flex-row space-x-4 max-md:space-y-4 font-medium items-center text-sm  justify-center mt-3 ">
                     <div
                         className="flex md:flex-row space-x-4 items-center">
-                        <a href="/public/docs/CV_Agustin_Terrera_G.pdf"
+                        <a href="/docs/CV_Agustin_Terrera_G.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-flex px-2 py-2 items-center rounded-sm text-bg bg-primary space-x-1 hover:bg-primary/90 shadow-lg/30">
