@@ -112,7 +112,7 @@ function Hero() {
                     <div className="text-center">
                         <div
                             className="text-primary font-bold text-2xl md:text-4xl lg:text-3xl"><CountUp from={0}
-                                to={10}
+                                to={2}
                                 separator=","
                                 direction="up"
                                 duration={2}
@@ -124,7 +124,7 @@ function Hero() {
                     <div className="text-center">
                         <div
                             className="text-primary font-bold text-2xl md:text-4xl lg:text-3xl"><CountUp from={0}
-                                to={10}
+                                to={2}
                                 separator=","
                                 direction="up"
                                 duration={2}
